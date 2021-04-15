@@ -1,0 +1,17 @@
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\bin\Debug\Reproductor.exe.config
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\bin\Debug\Reproductor.pdb
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\bin\Debug\MACTrackBarLib.dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\bin\Debug\Interop.WMPLib.dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\obj\Debug\Reproductor.csprojAssemblyReference.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\obj\Debug\Interop.WMPLib.dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\obj\Debug\Reproductor.csproj.ResolveComReference.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\obj\Debug\Reproductor.Form1.resources
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\obj\Debug\Reproductor.csproj.CoreCompileInputs.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\obj\Debug\Reproductor.csproj.CopyComplete
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\obj\Debug\Reproductor.exe
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\2do_parcial\Reproductor\obj\Debug\Reproductor.pdb
